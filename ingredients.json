@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ingredients-0001",
+    "name": "Riso"
+  },
+  {
+    "id": "ingredients-0002",
+    "name": "Salmone crudo"
+  },
+  {
+    "id": "ingredients-0003",
+    "name": "Salmone cotto"
+  },
+  {
+    "id": "ingredients-0004",
+    "name": "Tonno cotto"
+  },
+  {
+    "id": "ingredients-0005",
+    "name": "Tonno crudo"
+  },
+  {
+    "id": "ingredients-0006",
+    "name": "Salsa soia"
+  },
+  {
+    "id": "ingredients-0007",
+    "name": "Gambero"
+  },
+  {
+    "id": "ingredients-0008",
+    "name": "Branzino crudo"
+  }
+]

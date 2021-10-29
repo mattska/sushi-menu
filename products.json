@@ -1,0 +1,81 @@
+[
+  {
+    "id": "product-0001",
+    "name": "Salmon Flambe",
+    "image": "http://lorempixel.com/1000/1000/food/1/",
+    "price": 2.50,
+    "category": "categories-0001",
+    "ingredients": [
+      "ingredients-0001",
+      "ingredients-0002"
+    ]
+  },
+  {
+    "id": "product-0002",
+    "name": "Sicilia Nigiri",
+    "image": "http://lorempixel.com/1000/1000/food/2/",
+    "price": 2.50,
+    "category": "categories-0001",
+    "ingredients": [
+      "ingredients-0001",
+      "ingredients-0007"
+    ]
+  },
+  {
+    "id": "product-0003",
+    "name": "Suzuki Flambe",
+    "image": "http://lorempixel.com/1000/1000/food/3/",
+    "price": 2.50,
+    "category": "categories-0001",
+    "ingredients": [
+      "ingredients-0001",
+      "ingredients-0008"
+    ]
+  },
+  {
+    "id": "product-0004",
+    "name": "Ibiza Rolls",
+    "image": "http://lorempixel.com/1000/1000/food/4/",
+    "price": 13.00,
+    "category": "categories-0003",
+    "ingredients": [
+      "ingredients-0001",
+      "ingredients-0002",
+      "ingredients-0006"
+    ]
+  },
+  {
+    "id": "product-0005",
+    "name": "Pink Ebi Jurere",
+    "image": "http://lorempixel.com/1000/1000/food/5/",
+    "price": 15.00,
+    "category": "categories-0003",
+    "ingredients": [
+      "ingredients-0001",
+      "ingredients-0005",
+      "ingredients-0006"
+    ]
+  },
+  {
+    "id": "product-0006",
+    "name": "Sashiten",
+    "image": "http://lorempixel.com/1000/1000/food/6/",
+    "price": 12.00,
+    "category": "categories-0002",
+    "ingredients": [
+      "ingredients-0002"
+    ]
+  },
+  {
+    "id": "product-0007",
+    "name": "Sashigold",
+    "image": "http://lorempixel.com/1000/1000/food/7/",
+    "price": 15.00,
+    "category": "categories-0002",
+    "ingredients": [
+      "ingredients-0002",
+      "ingredients-0007",
+      "ingredients-0005"
+    ]
+  }
+]
